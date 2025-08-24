@@ -33,7 +33,7 @@ Collection of **data structures and algorithms** problems implemented in Java.
 
 ## 📈 GitHub Stats
 ![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rana-rajat&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rana-rajat&theme=dark)
+[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rana-rajat&theme=dark)
 ---
 
 ## 🤝 Connect With Me
