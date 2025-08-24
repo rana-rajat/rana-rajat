@@ -1,6 +1,3 @@
-<!-- Profile Banner -->
-![Banner](https://raw.githubusercontent.com/rana-rajat/rana-rajat/main/banner.png)
-
 # 👋 Hi, I'm Rajat Rana  
 
 💻 **Backend Developer | Java | Spring Boot | MySQL | Multithreading**  
