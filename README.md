@@ -4,16 +4,12 @@
 
 I enjoy building scalable backend systems, solving problems with clean code, and learning advanced concepts like **multithreading, concurrency, and system design**.  
 
----
-
 ## 🛠️ Tech Stack
 - **Languages**: Java, SQL, JavaScript (Basics)
 - **Frameworks**: Spring, Spring Boot, Hibernate, JPA
 - **Databases**: MySQL
 - **Tools**: Git, Maven, Docker (Basics), Postman
 - **CS Fundamentals**: Multithreading, Data Structures & Algorithms, OOPs, Design Patterns
-
----
 
 ## 📌 Pinned Projects
 ### 📰 JournalApp  
@@ -35,11 +31,9 @@ Collection of **data structures and algorithms** problems implemented in Java.
 - Useful for interview prep  
 - **[View Repository](https://github.com/rana-rajat/dsa)**  
 
----
-
 ## 📈 GitHub Stats
 ![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rana-rajat&show_icons=true&theme=tokyonight)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rana-rajat&theme=dark)
 ---
 
 ## 🤝 Connect With Me
