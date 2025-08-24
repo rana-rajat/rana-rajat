@@ -36,7 +36,7 @@ Collection of **data structures and algorithms** problems implemented in Java.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rana-rajat&theme=dark)
 
 ## 🤝 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/rajat-rana/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rajat-rana-664057196/)  
 - 📧 Email: rajatrana2309@gmail.com  
 - 🌍 Location: Chandigarh, India  
 ---
