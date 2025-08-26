@@ -42,5 +42,3 @@ Collection of **data structures and algorithms** problems implemented in Java.
 - 💼 [LinkedIn](https://www.linkedin.com/in/rajat-rana-664057196/)  
 - 📧 Email: rajatrana2309@gmail.com  
 - 🌍 Location: Chandigarh, India  
----
-⭐️ From [rana-rajat](https://www.linkedin.com/in/rajat-rana-664057196/)
