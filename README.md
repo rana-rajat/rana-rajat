@@ -32,7 +32,7 @@ Collection of **data structures and algorithms** problems implemented in Java.
 - **[View Repository](https://github.com/rana-rajat/dsa)**  
 
 ## 📊 GitHub Stats
-<div style="display: flex; justify-content: space-between; gap: 10px;">
+<div style="display: flex; justify-content: space-between; gap: 11px;">
   <img src="https://github-readme-stats.vercel.app/api?username=rana-rajat&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rana-rajat&theme=dark" alt="GitHub Streak" height="160"/>
 </div>
