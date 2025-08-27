@@ -31,13 +31,12 @@ Collection of **data structures and algorithms** problems implemented in Java.
 - Useful for interview prep  
 - **[View Repository](https://github.com/rana-rajat/dsa)**  
 
-## 📊 GitHub Stats
-<div align="center">
+## 📊 GitHub Stats  
 
-  <img src="https://github-readme-stats.vercel.app/api?username=rana-rajat&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=rana-rajat&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
+| GitHub Stats | GitHub Streak |
+|--------------|---------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rana-rajat&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://streak-stats.demolab.com?user=rana-rajat&theme=tokyonight&hide_border=true) |
 
-</div>
 
 ## 🤝 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/rajat-rana-664057196/)  
