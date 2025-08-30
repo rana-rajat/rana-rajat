@@ -7,13 +7,13 @@ I enjoy building scalable backend systems, solving problems with clean code, and
 ## 🛠️ Tech Stack
 - **Languages**: Java, SQL, JavaScript (Basics)
 - **Frameworks**: Spring, Spring Boot, Hibernate, JPA
-- **Databases**: MySQL
+- **Databases**: MySQL,MongoDB
 - **Tools**: Git, Maven, Docker (Basics), Postman
 - **CS Fundamentals**: Multithreading, Data Structures & Algorithms, OOPs, Design Patterns
 
 ## 📌 Pinned Projects
 ### 📰 JournalApp  
-A simple **Spring Boot + MySQL** app where users can create, update, and delete journal entries.  
+A simple **Spring Boot + MongoDB** app where users can create, update, and delete journal entries.  
 - Implemented REST APIs with authentication  
 - Layered architecture (Controller → Service → Repository)  
 - **[View Repository](https://github.com/rana-rajat/journalApp)**  
