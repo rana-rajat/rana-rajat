@@ -20,8 +20,8 @@ A simple **Spring Boot + MongoDB** app where users can create, update, and delet
 
 ### ⚡ Multithreading Examples  
 Practical examples of **Java concurrency**, covering:  
-- `synchronized`, `Lock`, `ReentrantLock`  
-- `wait/notify`, `BlockingQueue` (Producer-Consumer)  
+- `synchronized`, `Lock`, `ReentrantLock`,, `Executor`   
+- `wait/notify`, `BlockingQueue` (Producer-Consumer) , `Future`  
 - Deadlock and its prevention  
 - **[View Repository](https://github.com/rana-rajat/Multithreading)**  
 
