@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Rajat Rana  
+# Hi, I'm Rajat Rana  
 
-💻 **Backend Developer | Java | Spring Boot | MySQL | Multithreading**  
+ **Backend Developer | Java | Spring Boot | MySQL | Multithreading**  
 
 I enjoy building scalable backend systems, solving problems with clean code, and learning advanced concepts like **multithreading, concurrency, and system design**.  
 
@@ -12,7 +12,7 @@ I enjoy building scalable backend systems, solving problems with clean code, and
 - **CS Fundamentals**: Multithreading, Data Structures & Algorithms, OOPs, Design Patterns
 
 ##  Pinned Projects
-### 📰 JournalApp  
+###  JournalApp  
 A simple **Spring Boot + MongoDB** app where users can create, update, and delete journal entries.  
 - Implemented REST APIs with authentication  
 - Layered architecture (Controller → Service → Repository)  
@@ -31,7 +31,7 @@ Collection of **data structures and algorithms** problems implemented in Java.
 - Useful for interview prep  
 - **[View Repository](https://github.com/rana-rajat/dsa)**  
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 | GitHub Stats | GitHub Streak |
 |--------------|---------------|
