@@ -15,7 +15,7 @@ I enjoy building scalable backend systems, solving problems with clean code, and
 
 | GitHub Stats | GitHub Streak |
 |--------------|---------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rana-rajat&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://streak-stats.demolab.com?user=rana-rajat&theme=tokyonight&hide_border=true) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rana-rajat&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rana-rajat&theme=tokyonight&hide_border=true) |
 
 
 ##  Connect With Me
