@@ -11,26 +11,6 @@ I enjoy building scalable backend systems, solving problems with clean code, and
 - **Tools**: Git, Maven, Docker (Basics), Postman
 - **CS Fundamentals**: Multithreading, Data Structures & Algorithms, OOPs, Design Patterns
 
-##  Pinned Projects
-###  JournalApp  
-A simple **Spring Boot + MongoDB** app where users can create, update, and delete journal entries.  
-- Implemented REST APIs with authentication  
-- Layered architecture (Controller → Service → Repository)  
-- **[View Repository](https://github.com/rana-rajat/journalApp)**  
-
-###  Multithreading Examples  
-Practical examples of **Java concurrency**, covering:  
-- `synchronized`, `Lock`, `ReentrantLock`, `Executor`   
-- `wait/notify`, `BlockingQueue` (Producer-Consumer) , `Future`  
-- Deadlock and its prevention  
-- **[View Repository](https://github.com/rana-rajat/Multithreading)**  
-
-###  DSA in Java  
-Collection of **data structures and algorithms** problems implemented in Java.  
-- Covers arrays, linked lists, stacks, queues, trees, and graphs  
-- Useful for interview prep  
-- **[View Repository](https://github.com/rana-rajat/dsa)**  
-
 ## GitHub Stats  
 
 | GitHub Stats | GitHub Streak |
