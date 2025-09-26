@@ -7,7 +7,7 @@ I enjoy building scalable backend systems, solving problems with clean code, and
 ##  Tech Stack
 - **Languages**: Java, SQL, JavaScript (Basics)
 - **Frameworks**: Spring, Spring Boot, Hibernate, JPA
-- **Databases**: MySQL,MongoDB
+- **Databases**: MySQL,MongoDB,Redis
 - **Tools**: Git, Maven, Docker (Basics), Postman
 - **CS Fundamentals**: Multithreading, Data Structures & Algorithms, OOPs, Design Patterns
 
